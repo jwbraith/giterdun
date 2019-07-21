@@ -23,3 +23,4 @@ function setup() {
 //git commit -a -m "comment"		-- commit all changes in the staging area
 //git remote		--		list of the far flung corresponding directory
 //git add				--		add a specific or all (.) files to the staging area
+//git push origin master 		-- sends the staging area stuff to the master branch of the 'origin' remote
